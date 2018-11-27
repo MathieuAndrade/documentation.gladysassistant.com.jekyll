@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-	<img src="https://raw.githubusercontent.com/MathieuAndrade/documentation.gladysproject.com.jekyll/master/assets/img/logo.png" width="200">
+	<img src="https://raw.githubusercontent.com/MathieuAndrade/documentation.gladysproject.com.jekyll/master/assets/image/logo.png" width="200">
+  <br>
   <br>
   Gladys Project Documentation
 </h1>
