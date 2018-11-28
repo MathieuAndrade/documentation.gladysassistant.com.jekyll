@@ -12,6 +12,9 @@ collections:
     output: true
     permalink: /:path
 
+url: "https://mathieuandrade.github.io"
+baseurl: "/documentation.gladysproject.com.jekyll"
+
 # Social network
 twitter_username: gladysproject
 github_username:  gladysproject
