@@ -4,8 +4,8 @@
 
                 <div class="navbar-left">
                     <button class="navbar-toggler" type="button">&#9776;</button>
-                    <a class="navbar-brand" href="{{'/' | relative_url}}">
-                        <image class="logo-dark" width="100" src="{{'/assets/image/logo-horizontal-light.png' | relative_url}}" alt="logo">
+                    <a class="navbar-brand" href="{{site.baseurl}}/">
+                        <image class="logo-dark" width="100" src="{{site.baseurl}}/assets/image/logo-horizontal-light.png" alt="logo">
                     </a>
                 </div>
 
@@ -39,7 +39,7 @@
                                                             <a class="nav-link" href="#">{{ child.sub-category }} <span class="arrow"></span></a>                  
                                                             <nav class="nav">
                                                                 {% for sub-child in sub-childs %}
-                                                                    <a class="nav-link" href="/{{ page.lang }}/{{ child.category | downcase }}#{{ sub-child.name }}">{{ sub-child.title }} </a>
+                                                                    <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ child.category | downcase }}#{{ sub-child.name }}">{{ sub-child.title }} </a>
                                                                 {% endfor %}
                                                             </nav>
                                                         </li>
@@ -49,7 +49,7 @@
                                             
                                                 {% else %}                
                                                     <li class="nav-item">
-                                                        <a class="nav-link" href="/{{ page.lang }}/{{ child.category | downcase }}#{{ child.name }}">{{ child.title }}</a>
+                                                        <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ child.category | downcase }}#{{ child.name }}">{{ child.title }}</a>
                                                     </li>
                                                 {% endif%}
                                             {% endfor %}
