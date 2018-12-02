@@ -1,8 +1,8 @@
 ---
 layout: docs
 name: intro
-title: Devellopement
-permalink: "/en/devellopement"
+title: Development
+permalink: "/en/development"
 lang: en
 ---
 

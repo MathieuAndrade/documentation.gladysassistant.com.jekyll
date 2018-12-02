@@ -1,9 +1,9 @@
 ---
 name: mqtt
 title: API MQTT
-permalink: "/fr/devellopement"
+permalink: "/fr/development"
 lang: fr
-category: Devellopement
+category: Developpement
 sub-category: API
 ---
 

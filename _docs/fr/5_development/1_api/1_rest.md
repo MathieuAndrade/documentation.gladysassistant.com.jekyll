@@ -1,9 +1,9 @@
 ---
 name: rest
 title: API Rest
-permalink: "/fr/devellopement"
+permalink: "/fr/development"
 lang: fr
-category: Devellopement
+category: Developpement
 sub-category: API
 ---
 

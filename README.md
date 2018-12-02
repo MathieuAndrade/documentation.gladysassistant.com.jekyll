@@ -45,7 +45,7 @@ If you're looking for some quick links to get you started, try these:
 
 - [Detailed install guides EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/installation#image) | [Detailed install guides FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/installation#image)
 - [Full Documentation EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/documentation) | [Full Documentation FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/documentation)
-- [Full API reference EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/devellopement#api) | [Full API reference FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/devellopement#api)
+- [Full API reference EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/development#api) | [Full API reference FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/development#api)
 - [Frequently Asked Questions EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/faq/) | [Frequently Asked Questions FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/faq/) 
 
 ## Getting Support
