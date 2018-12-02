@@ -2,7 +2,7 @@ nav-bar:
   titles:
     concept: Concept
     configuration: Configuration
-    developpement: Développement
+    development: Développement
     documentation: Documentation
     installation: Installation
   sub-titles:
@@ -18,7 +18,7 @@ nav-bar:
       ios: IOS
       gladys-voice: Gladys-voice
       gladys-bluetooth: Gladys-bluetooth
-    developpement: 
+    development: 
       api: API
       tools: Outils
       create-internal-module: Créer un module interne
