@@ -1,9 +1,9 @@
 ---
 name: external-module
 title: Module externe
-permalink: "/fr/devellopement"
+permalink: "/fr/development"
 lang: fr
-category: Devellopement
+category: Developpement
 ---
 
 En cours..

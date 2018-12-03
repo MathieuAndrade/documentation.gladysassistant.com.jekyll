@@ -1,9 +1,9 @@
 ---
 name: nodejs
 title: NodeJS API
-permalink: "/en/devellopement"
+permalink: "/en/development"
 lang: en
-category: Devellopement
+category: Development
 sub-category: API
 ---
 

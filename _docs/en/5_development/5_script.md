@@ -1,9 +1,9 @@
 ---
 name: script
 title: Script
-permalink: "/en/devellopement"
+permalink: "/en/development"
 lang: en
-category: Devellopement
+category: Development
 ---
 
 Coming soon..

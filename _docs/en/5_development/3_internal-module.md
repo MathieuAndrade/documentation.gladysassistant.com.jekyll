@@ -1,9 +1,9 @@
 ---
 name: internal-module
 title: Internal module
-permalink: "/en/devellopement"
+permalink: "/en/development"
 lang: en
-category: Devellopement
+category: Development
 ---
 
 Coming soon..
