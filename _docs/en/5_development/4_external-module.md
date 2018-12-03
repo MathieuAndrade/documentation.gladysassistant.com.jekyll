@@ -1,9 +1,9 @@
 ---
 name: external-module
 title: External module
-permalink: "/en/devellopement"
+permalink: "/en/development"
 lang: en
-category: Devellopement
+category: Development
 ---
 
 Coming soon..

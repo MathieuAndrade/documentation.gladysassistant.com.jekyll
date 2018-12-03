@@ -114,7 +114,7 @@ _docs
     │   ├── 2_data-model.md
     │   └── index.md
     │
-    ├── 5_devellopement
+    ├── 5_development
     │   ├── 1_api.md
     │   │    ├── 1_rest.md
     │   │    ├── 2_nodejs.md
