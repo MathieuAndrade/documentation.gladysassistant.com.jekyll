@@ -39,7 +39,8 @@
                                                             <a class="nav-link" href="#">{{ child.sub-category }} <span class="arrow"></span></a>                  
                                                             <nav class="nav">
                                                                 {% for sub-child in sub-childs %}
-                                                                    <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ child.category | downcase }}#{{ sub-child.name }}">{{ sub-child.title }} </a>
+                                                                    {% assign cat = child.category %}{% if cat == 'Developpement'%}{% assign cat = 'development' %}{% endif%}
+                                                                    <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ cat | downcase }}#{{ sub-child.name }}">{{ sub-child.title }} </a>
                                                                 {% endfor %}
                                                             </nav>
                                                         </li>
@@ -49,7 +50,8 @@
                                             
                                                 {% else %}                
                                                     <li class="nav-item">
-                                                        <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ child.category | downcase }}#{{ child.name }}">{{ child.title }}</a>
+                                                        {% assign cat = child.category %}{% if cat == 'Developpement'%}{% assign cat = 'development' %}{% endif%}
+                                                        <a class="nav-link" href="{{site.baseurl}}/{{ page.lang }}/{{ cat | downcase }}#{{ child.name }}">{{ child.title }}</a>
                                                     </li>
                                                 {% endif%}
                                             {% endfor %}
