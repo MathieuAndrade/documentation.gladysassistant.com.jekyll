@@ -2,7 +2,7 @@
 layout: docs
 name: intro
 title: Développement
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 ---
 

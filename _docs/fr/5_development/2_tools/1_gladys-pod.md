@@ -1,7 +1,7 @@
 ---
 name: pod
 title: Gladys POD
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 category: Developpement
 sub-category: Outils

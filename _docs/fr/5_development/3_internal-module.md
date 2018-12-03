@@ -1,7 +1,7 @@
 ---
 name: internal-module
 title: Module interne
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 category: Developpement
 ---

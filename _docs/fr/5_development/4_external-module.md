@@ -1,7 +1,7 @@
 ---
 name: external-module
 title: Module externe
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 category: Developpement
 ---

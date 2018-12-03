@@ -1,7 +1,7 @@
 ---
 name: mqtt-adapter
 title: MQTT Adapteur
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 category: Developpement
 sub-category: Outils

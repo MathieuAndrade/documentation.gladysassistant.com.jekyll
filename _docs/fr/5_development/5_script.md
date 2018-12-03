@@ -1,7 +1,7 @@
 ---
 name: script
 title: Script
-permalink: "/fr/development"
+permalink: "/fr/developpement"
 lang: fr
 category: Developpement
 ---
