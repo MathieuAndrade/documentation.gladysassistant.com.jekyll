@@ -20,7 +20,7 @@ I recommend the software [Etcher](https://etcher.io/) (Linux/MacOS/Windows compa
 
 Install Etcher, plug your SD card into your computer, and clone the .img file on your SD card.
 
-<img src="/assets/image/installation/etcher.png" alt="Etcher Gladys Raspberry Pi" class="img-responsive" />
+<img src="{{site.baseurl}}/assets/image/installation/etcher.png" alt="Etcher Gladys Raspberry Pi" class="img-responsive" />
 
 Finally, all you have to do is to connect your Raspberry Pi to your local network (with an Ethernet cable for example), and to turn it on.
 

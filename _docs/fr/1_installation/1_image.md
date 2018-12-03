@@ -29,7 +29,7 @@ Je vous conseille pour cela le super tool [Etcher](https://etcher.io/) (compatib
 Installez Etcher, branchez votre carte SD à votre ordinateur, et clonez le fichier .img sur la carte.
 
 
-<img src="/assets/image/installation/etcher.png" alt="Etcher Gladys carte SD Raspberry Pi" class="img-responsive" />
+<img src="{{site.baseurl}}/assets/image/installation/etcher.png" alt="Etcher Gladys carte SD Raspberry Pi" class="img-responsive" />
 
 Ensuite, vous pouvez brancher votre Raspberry Pi en Ethernet à votre box, et le brancher sur le secteur. Une petite étape supplémentaire est nécessaire, il faut maintenant étendre la partition sur le Raspberry Pi pour que l'image prenne la taille de votre carte SD. Si vous n'étendez pas la partition, votre image ne prendra pas parti de toute la taille disponible sur votre carte SD, et vous allez vite manquer d'espace disque !
 
