@@ -6,4 +6,8 @@ lang: en
 category: Configuration
 ---
 
-Coming soon..
+Go to the configuration panel in `Parameters` => `Houses`. 
+
+Fill the name of your room then choose the house of the new room:
+
+<img alt="Gladys house" src="/assets/image/configuration/house-3.png" class="img-responsive"/>
