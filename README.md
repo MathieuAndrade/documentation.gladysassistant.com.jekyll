@@ -15,8 +15,8 @@
 <p align="center">
   <a href="#the-project">The Project</a> •
   <a href="#getting-support">Getting Support</a> •
-  <a href="#todo">Todo</a> •
   <a href="#contributing">Contributing</a> •
+  <a href="#todo">Todo</a> •
   <a href="#links">Links</a> •
   <a href="#copyright--license">Copyright & License</a> 
 </p>
@@ -69,7 +69,7 @@ If you're interested in contributing to our docs either with content or code, we
 
 - [x] Intro
 - [x] Image
-- [ ] Docker (In progress)
+- [ ] Docker (In progress) 🕝
 - [ ] Manual
 
 ### Configuration
@@ -109,7 +109,7 @@ If you're interested in contributing to our docs either with content or code, we
 - [ ] API REST
 - [ ] API NodeJS
 - [ ] API MQTT
-- [ ] Gladys POD (In progress)
+- [ ] Gladys POD (In progress) 🕝
 - [ ] Gladys MQTT Adapter
 - [ ] Internal module
 - [ ] External module
