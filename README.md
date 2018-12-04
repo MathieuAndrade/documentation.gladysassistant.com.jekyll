@@ -67,8 +67,8 @@ If you're interested in contributing to our docs either with content or code, we
 
 ### Installation
 
-- [x] Intro
-- [x] Image
+- [x] Intro ✅ 
+- [x] Image ✅ 
 - [ ] Docker (In progress) 🕝
 - [ ] Manual
 
