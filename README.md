@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="#the-project">The Project</a> •
-  <a href="#getting--support">Getting Support</a> •
+  <a href="#getting-support">Getting Support</a> •
+  <a href="#todo">Todo</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#links">Links</a> •
   <a href="#copyright--license">Copyright & License</a> 
@@ -55,9 +56,64 @@ If you're stuck on something and need a helping hand, you'll find a large commun
 
 ## Contributing
 
-If you're interested in contributing to our docs either with content or code, we can always use the help! All of this is open source so that anyone can get involved if they have fixes or improvements to add.
+If you're interested in contributing to our docs either with content or code, we can always use the help ! All of this is open source so that anyone can get involved if they have fixes or improvements to add.
 
 **[Read the contributing guide](https://github.com/MathieuAndrade/documentation.gladysproject.com.jekyll/blob/master/.github/CONTRIBUTING.md)**
+
+**Please check the to-do list and send me a message or create a issue if you decide to contribute.** 😄
+
+
+## Todo
+
+### Installation
+
+- [x] Intro
+- [x] Image
+- [ ] Docker (In progress)
+- [ ] Manual
+
+### Configuration
+
+- [ ] Intro
+- [ ] House
+- [ ] Room
+- [ ] Machine
+- [ ] Localisation
+- [ ] Android
+- [ ] IOS
+- [ ] Gladys Voice
+- [ ] Gladys Bluetooth
+
+### Documentation
+
+- [ ] Intro
+- [ ] Alarm
+- [ ] Event
+- [ ] Event type
+- [ ] Scenario
+- [ ] Device
+- [ ] Device type
+- [ ] Area
+- [ ] Internal module
+- [ ] External module
+
+### Concept
+
+- [ ] Intro
+- [ ] Architecture
+- [ ] Data model
+
+### Development
+
+- [ ] Intro
+- [ ] API REST
+- [ ] API NodeJS
+- [ ] API MQTT
+- [ ] Gladys POD (In progress)
+- [ ] Gladys MQTT Adapter
+- [ ] Internal module
+- [ ] External module
+- [ ] Script
 
 
 ## Links
