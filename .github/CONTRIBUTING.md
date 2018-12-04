@@ -32,8 +32,17 @@ Pull requests are the best way to propose changes.
 
 2. Move into the clone folder and install dependencies 
 
+Window and Mac
+
 ```` 
 bundle install
+# Install dependencies
+````
+
+Linux 
+
+```` 
+BUNDLE_GEMFILE="./GemFile" bundle install
 # Install dependencies
 ````
 
@@ -144,6 +153,10 @@ _docs
  - The site is fully generated according to the markdown files present in this folder, for more control of the order of display the files are numbered.
 
  - The docs folder contains only markdown files, if you want to add images to your files you have to put them in the ``assets/images`` folder. And in your markdown file put ``![My helpful screenshot](/assets/screenshot.jpg)`` to access to your image.
+
+ - Use beautiful images as in the home configuration documentation. To create beautiful images use [Screely](https://www.screely.com/) with no window option and transparent background. 
+
+ - Not use your name on screenshot. Use Tony Stark 😎
 
  - For the faq, create a markdwon file for one question with the response.
  
