@@ -74,7 +74,7 @@ If you're interested in contributing to our docs either with content or code, we
 
 ### Configuration
 
-- [x Intro ✅
+- [x] Intro ✅
 - [x] House ✅
 - [x] Room ✅
 - [ ] Machine
