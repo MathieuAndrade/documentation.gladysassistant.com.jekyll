@@ -67,16 +67,16 @@ If you're interested in contributing to our docs either with content or code, we
 
 ### Installation
 
-- [x] Intro
-- [x] Image
-- [ ] Docker (In progress) 🕝
+- [x] Intro ✅
+- [x] Image ✅
+- [x] Docker ✅
 - [ ] Manual
 
 ### Configuration
 
-- [ ] Intro
-- [ ] House
-- [ ] Room
+- [x Intro ✅
+- [x] House ✅
+- [x] Room ✅
 - [ ] Machine
 - [ ] Localisation
 - [ ] Android
