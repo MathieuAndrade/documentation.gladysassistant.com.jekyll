@@ -26,7 +26,7 @@
                                     {% assign childs = site.docs | where: 'category', file.category | where: 'lang', page.lang %}
 
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">{{ file.category }} <span class="arrow"></span></a>
+                                        <a class="nav-link" href="{{ file.permalink }}">{{ file.category }} <span class="arrow"></span></a>
                                         <ul class="nav">
                                             {% for child in childs %}
                                                 {% if child.sub-category != '' and child.sub-category != nil%}
