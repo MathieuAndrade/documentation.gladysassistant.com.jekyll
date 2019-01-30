@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-	<img src="https://raw.githubusercontent.com/MathieuAndrade/documentation.gladysproject.com.jekyll/master/assets/image/logo.png" width="200">
+	<img src="https://raw.githubusercontent.com/MathieuAndrade/documentation.gladysassistant.com.jekyll/master/assets/image/logo.png" width="200">
   <br>
   <br>
   Gladys Project Documentation
@@ -44,21 +44,21 @@ Interested in Gladys ? Try it at home, it's free and Open-Source !
 
 If you're looking for some quick links to get you started, try these:
 
-- [Detailed install guides EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/installation#image) | [Detailed install guides FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/installation#image)
-- [Full Documentation EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/documentation) | [Full Documentation FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/documentation)
-- [Full API reference EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/development#api) | [Full API reference FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/development#api)
-- [Frequently Asked Questions EN](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/en/faq/) | [Frequently Asked Questions FR](https://mathieuandrade.github.io/documentation.gladysproject.com.jekyll/fr/faq/) 
+- [Detailed install guides EN](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/en/installation#image) | [Detailed install guides FR](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/fr/installation#image)
+- [Full Documentation EN](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/en/documentation) | [Full Documentation FR](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/fr/documentation)
+- [Full API reference EN](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/en/development#api) | [Full API reference FR](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/fr/development#api)
+- [Frequently Asked Questions EN](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/en/faq/) | [Frequently Asked Questions FR](https://mathieuandrade.github.io/documentation.gladysassistant.com.jekyll/fr/faq/) 
 
 ## Getting Support
 
-If you're stuck on something and need a helping hand, you'll find a large community of thousands of Gladys users over on the [official Gladys forum](https://community.gladysproject.com/). Search to see if someone has gotten stuck on the same thing before! If not, feel free to start a new topic 🤗
+If you're stuck on something and need a helping hand, you'll find a large community of thousands of Gladys users over on the [official Gladys forum](https://community.gladysassistant.com/). Search to see if someone has gotten stuck on the same thing before! If not, feel free to start a new topic 🤗
 
 
 ## Contributing
 
 If you're interested in contributing to our docs either with content or code, we can always use the help ! All of this is open source so that anyone can get involved if they have fixes or improvements to add.
 
-**[Read the contributing guide](https://github.com/MathieuAndrade/documentation.gladysproject.com.jekyll/blob/master/.github/CONTRIBUTING.md)**
+**[Read the contributing guide](https://github.com/MathieuAndrade/documentation.gladysassistant.com.jekyll/blob/master/.github/CONTRIBUTING.md)**
 
 **Please check the to-do list and send me a message or create a issue if you decide to contribute.** 😄
 
@@ -118,15 +118,15 @@ If you're interested in contributing to our docs either with content or code, we
 
 ## Links
 
--  [Website](https://gladysproject.com)
--  [Community](https://community.gladysproject.com/)
--  [Developer Website](https://developer.gladysproject.com)
--  [Patreon](https://www.patreon.com/gladysproject/overview)
--  [Twitter](https://twitter.com/gladysproject)
--  [Instagram](https://www.instagram.com/gladysproject/)
--  [Facebook](https://www.facebook.com/gladysproject)
+-  [Website](https://gladysassistant.com)
+-  [Community](https://community.gladysassistant.com/)
+-  [Developer Website](https://developer.gladysassistant.com)
+-  [Patreon](https://www.patreon.com/gladysassistant/overview)
+-  [Twitter](https://twitter.com/gladysassistant)
+-  [Instagram](https://www.instagram.com/gladysassistant/)
+-  [Facebook](https://www.facebook.com/gladysassistant)
 
  
 ## Copyright & License
 
-Copyright (c) 2018 Gladys Project - Released under the [MIT license](https://github.com/MathieuAndrade/documentation.gladysproject.com.jekyll/blob/master/LICENSE)
+Copyright (c) 2018 Gladys Project - Released under the [MIT license](https://github.com/MathieuAndrade/documentation.gladysassistant.com.jekyll/blob/master/LICENSE)
