@@ -13,10 +13,10 @@ collections:
     permalink: /:path
 
 # Social network
-twitter_username: gladysproject
-github_username:  gladysproject
-facebook_username: gladysproject
-instagram_username: gladysproject
+twitter_username: gladysassistant
+github_username:  gladysassistant
+facebook_username: gladysassistant
+instagram_username: gladysassistant
 
 ## I18N
 languages: ["en", "fr"]
@@ -28,15 +28,15 @@ languageNames:
 
 #SEO plugins infos
 twitter:
-  username: gladysproject
+  username: gladysassistant
 logo: /assets/image/gladys-logo.png
 social:
   name: Gladys Project
   links:
-    - https://twitter.com/gladysproject
-    - https://www.facebook.com/gladysproject
-    - https://www.instagram.com/gladysproject
-    - https://github.com/gladysproject
+    - https://twitter.com/gladysassistant
+    - https://www.facebook.com/gladysassistant
+    - https://www.instagram.com/gladysassistant
+    - https://github.com/gladysassistant
 
 # Build settings
 markdown: kramdown
