@@ -1,3 +1,7 @@
+
+#### **This repo was moved to https://github.com/GladysAssistant/gladys-4-docs**
+
+
 <h1 align="center">
   <br>
 	<img src="https://raw.githubusercontent.com/MathieuAndrade/documentation.gladysassistant.com.jekyll/master/assets/image/logo.png" width="200">
